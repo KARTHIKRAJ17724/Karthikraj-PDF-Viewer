@@ -265,4 +265,4 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/afreakyelf)
 
 ## Author
-Maintained by [Rajat Mittal](https://www.github.com/afreakyelf)
+Maintained by [Karthikraj(https://github.com/KARTHIKRAJ17724)
